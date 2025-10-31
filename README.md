@@ -121,4 +121,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 * Inspired by classic RPGs and exploration games
 * Built using the **Pygame** framework
-* Created by **Richard Kóša**
+* Created by **DarkRawel**
