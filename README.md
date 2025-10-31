@@ -69,8 +69,8 @@ RealmExplorer/
 │   └── ui.py          # Menu and HUD elements
 │
 ├── main.py            # Game entry point
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
+├── README.md          # Python dependencies
+└── requirements.txt   # Project documentation
 ```
 
 > 💡 You can adjust folder names or add modules as your project grows (for example, add a `save_load.py` or `inventory.py`).
