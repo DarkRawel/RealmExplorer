@@ -73,10 +73,6 @@ RealmExplorer/
 └── requirements.txt   # Project documentation
 ```
 
-> 💡 You can adjust folder names or add modules as your project grows (for example, add a `save_load.py` or `inventory.py`).
-
----
-
 ## 🎮 Controls (Planned)
 
 | Key               | Action          |
